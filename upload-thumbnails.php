@@ -34,6 +34,6 @@ if (isset( $_FILES['media_file'] )) {
     // imagedestroy($im);
   }
   # Create Thumbnails here
-
+ 
 }
  ?>
